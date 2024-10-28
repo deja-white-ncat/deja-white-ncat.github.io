@@ -1,0 +1,38 @@
+body {
+	background-color: #FFFFFF;
+}
+
+h1 {
+	text-align: center;
+	color: #000000;
+	font-family: Georgia;
+}
+
+table {
+	width:100%;
+	background-color: #000000;
+}
+
+td {
+	padding: 10px;
+}
+
+table a {
+	color: #FFFFFF;
+	font-size: 1.0em;
+	text-decoration:none;
+}
+
+
+p {
+	font-family: Times New Roman;
+	font-size: 16px;
+	text-align: center;
+}
+   
+h2 {
+	text-align:center;
+	font-family:Georgia;
+
+}
+
